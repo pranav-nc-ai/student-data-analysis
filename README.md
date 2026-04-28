@@ -1,3 +1,9 @@
+## 📸 Sample Visualizations
+
+![Heatmap](outputs/plots/heatmap.png)
+![Histogram](outputs/plots/histogram.png)
+![Boxplot](outputs/plots/boxplot.png)
+
 \# Student Data Cleaning \& Visualization
 
 
